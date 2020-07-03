@@ -2,6 +2,8 @@ Type all commands without quotations.
 
 STEPS.
 
+*Download both folders 'WebsiteForDemo' and 'addskills3001'.*
+
 1.) Open Command Prompt/Terminal depending on if you're using Windows or Mac.
 2.) Navigate to the directory that has 'WebsiteForDemo' folder in it.
 3.) In either Command Prompt/Terminal, type "npm start WebsiteForDemo". The main website should now be running on your localhost:3000.
