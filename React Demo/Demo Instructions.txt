@@ -21,7 +21,8 @@ Follow these steps.
 1.) In your regular file explorer, navigate into the 'WebsiteForDemo' folder.
 2.) Delete the 'package-lock.json' file.
 3.) Delete the 'node-modules' folder.
-4.) Open up Command Prompt/Terminal and navigate into the 'WebsiteForDemo' folder.
-5.) Type and enter "npm install"
+4.) Remove 'webpack' from dependencies in your 'package.json' file.
+5.) Open up Command Prompt/Terminal and navigate into the 'WebsiteForDemo' folder.
+6.) Type and enter "npm install"
 
 When the process is finished, the project should start successfully after typing in "npm start"
