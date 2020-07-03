@@ -13,6 +13,8 @@ STEPS.
 
 In your browser you can navigate to the localhost:3000 tab and run the demo! (You can close the tab that is running localhost:3001, that will be used later in the demo, anyway.)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                        TROUBLE SHOOTING
 
 *IN THE CASE WHERE YOU ARE NOT ABLE TO GET 'WebsiteForDemo' TO RUN* 
 
