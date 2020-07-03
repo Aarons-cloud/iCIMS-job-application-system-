@@ -5,10 +5,10 @@ STEPS.
 *Download both folders 'WebsiteForDemo' and 'addskills3001'*
 
 1.) Open Command Prompt/Terminal depending on if you're using Windows or Mac.
-2.) Navigate to the directory that has 'WebsiteForDemo' folder in it.
+2.) Navigate into the 'WebsiteForDemo' folder.
 3.) In either Command Prompt/Terminal, type "npm start WebsiteForDemo". The main website should now be running on your localhost:3000.
 4.) Open another instance of Command Prompt/Terminal.
-5.) Navigate to the directory that has 'addskills3001' folder in it.
+5.) Navigate into the 'addskills3001' folder.
 6.) In either Command Prompt/Terminal, type "npm start addskills3001". The 'add skills' component should now be running on your localhost:3001.
 
 In your browser you can navigate to the localhost:3000 tab and run the demo! (You can close the tab that is running localhost:3001, that will be used later in the demo, anyway.)
