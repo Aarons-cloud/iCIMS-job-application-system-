@@ -2,7 +2,7 @@ Type all commands without quotations.
 
 STEPS.
 
-*Download both folders 'WebsiteForDemo' and 'addskills3001'.*
+*Download both folders 'WebsiteForDemo' and 'addskills3001'*
 
 1.) Open Command Prompt/Terminal depending on if you're using Windows or Mac.
 2.) Navigate to the directory that has 'WebsiteForDemo' folder in it.
